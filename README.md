@@ -62,4 +62,4 @@ ANTHROPIC_API_KEY=your_anthropic_api_key_here
 Create a public directory to serve screenshots.
 ```bash
 bashmkdir -p public/screenshots
-```bash
+```
